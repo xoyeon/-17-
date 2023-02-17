@@ -1,5 +1,5 @@
 # 태블로 신병훈련소 17기
-📢 [태블로 자료실]
+### 📢 태블로 자료실
 - 태블로 퍼블릭 : https://public.tableau.com/s/
 - 무료 교육동영상 : https://www.tableau.com/ko-kr/learn
 - 태블로 한국 사용자 모임 (페이스북) : https://www.facebook.com/groups/KoreaTUG/
